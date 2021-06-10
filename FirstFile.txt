@@ -1,1 +1,5 @@
-This is a new file
+This is a NEW file
+
+Another line
+
+Thanks for attending session
